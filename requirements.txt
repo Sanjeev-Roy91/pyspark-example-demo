@@ -1,4 +1,4 @@
 -i https://pypi.org/simple
 django==3.0.2
-requests==2.3.0
+requests==2.20.0
 pymongo == 2.1
